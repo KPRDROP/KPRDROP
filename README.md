@@ -8,4 +8,4 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KPRDROP&theme=burnt-neon&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
 </p>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/KPRDROP/kpr?style=flat) ![GitHub User's stars](https://img.shields.io/github/stars/KPRDROP?style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/KPRDROP?style=for-the-badge)
