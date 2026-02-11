@@ -10,5 +10,4 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 
 <p align="center">
 ![GitHub top language](https://img.shields.io/github/languages/top/KPRDROP/kpr?style=for-the-badge&labelColor=%23154D9C&color=%23FFF34A)
-![GitHub User's stars](https://img.shields.io/github/stars/KPRDROP?style=for-the-badge)
 </p>
