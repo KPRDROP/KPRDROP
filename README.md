@@ -6,7 +6,7 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 
 &nbsp;
 
-div align="center">
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KPRDROP&theme=github-dark-dimmed" alt="GitHub Streak" /></a>
 </div>
 
