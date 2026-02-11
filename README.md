@@ -4,7 +4,7 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 "Educational Purposes Only"
 </div>
 
-<br><br>
+&nbsp;
 
 <p align="center">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/KPRDROP/kpr?style=for-the-badge&labelColor=%23154D9C&color=%23FFF34A">
