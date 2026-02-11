@@ -4,10 +4,7 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 "Educational Purposes Only"
 </p>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KPRDROP&theme=burnt-neon&date_format=%5BY.%5Dn.j" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
+<div align="center">
 ![GitHub top language](https://img.shields.io/github/languages/top/KPRDROP/kpr?style=for-the-badge&labelColor=%23154D9C&color=%23FFF34A)
-</p>
+![GitHub top language](https://img.shields.io/github/languages/top/KPRDROP/kpr?style=for-the-badge&labelColor=%23154D9C&color=%23FFF34A)
+</div>
