@@ -9,7 +9,8 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KPRDROP&theme=python-dark" alt="GitHub Streak" /></a>
 </p>
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/KPRDROP/kpr?style=for-the-badge&labelColor=%23154D9C&color=%23FFF34A"> &nbsp;
+&nbsp;
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/KPRDROP/kpr?style=for-the-badge&labelColor=%23154D9C&color=%23FFF34A">
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/KPRDROP?style=for-the-badge&logoColor=23154D9C&labelColor=%23154D9C&color=%23FFF34A&link=https%3A%2F%2Fbuymeacoffee.com%2F">
  
