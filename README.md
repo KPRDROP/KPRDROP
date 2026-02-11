@@ -15,7 +15,8 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/KPRDROP?style=for-the-badge&logoColor=23154D9C&labelColor=%23154D9C&color=%23FFF34A&link=https%3A%2F%2Fbuymeacoffee.com%2F">
 
-<p align="center"> 
+<div align="center">
  
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00??&style=for-the-badge&logo=buy-me-a-coffee&labelColor=%23154D9C&color=%23FFF34A)](https://buymeacoffee.com/)
-</p>
+
+</div>
