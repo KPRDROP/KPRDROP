@@ -18,5 +18,5 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/KPRDROP?style=for-the-badge&logoColor=23154D9C&labelColor=%23154D9C&color=%23FFF34A">
 </div>
 
-
-<img alt="VLC Media Player" src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=VLC&secondaryLabel=Media+Player&primaryBGColor=%23154d9c&primaryTextColor=%23ffffff&secondaryBGColor=%23fff34a&secondaryTextColor=%23333333&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryIcon=vlcmediaplayer&primaryIconColor=%23fff34a&primaryIconSize=16&primaryIconPosition=left&scale=0.8 /></a>
+<div align="center">
+<a href="https://www.videolan.org/"><img src="https://img.shields.io/badge/-VLC%20media%20player-FF8800?style=for-the-badge&logo=vlcmediaplayer&labelColor=%23154D9C&color=%23FFF34A
