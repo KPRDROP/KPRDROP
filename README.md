@@ -17,6 +17,6 @@ DISCLAIMER: The scripts and links provided on this GitHub page are for informati
 &nbsp;
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/KPRDROP?style=for-the-badge&logoColor=23154D9C&labelColor=%23154D9C&color=%23FFF34A">
 </div>
-
+&nbsp;
 <div align="center">
 <a href="https://www.videolan.org/"><img src="https://img.shields.io/badge/-VLC%20media%20player-FF8800?style=for-the-badge&logo=vlcmediaplayer&labelColor=%23154D9C&color=%23FFF34A" alt="VLC Media Player" /></a>
