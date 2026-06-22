@@ -38,3 +38,4 @@
   
 &nbsp;  
 ![](https://komarev.com/ghpvc/?username=kprdrop&style=for-the-badge&color=154D9C)
+![](https://komarev.com/ghpvc/?username=kprdrop&tyle=for-the-badge&labelColor=154D9C&color=FFF34A)
