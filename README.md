@@ -37,4 +37,4 @@
 <a href="https://www.mediafire.com/file/tzapdtl4b2k3vhl/wuffy-universal-release-358.apk/file"><img src="https://img.shields.io/badge/-Wuffy%20Player-FF0000?style=for-the-badge&logo=youtubemusic&labelColor=%23154D9C&color=%23FFF34A" alt="Wuffy Media Player" /></a>
   
 &nbsp;  
-![](https://komarev.com/ghpvc/?username=kprdrop&style=for-the-badge&labelColor=23154D9C&color=23FFF34A)
+![](https://komarev.com/ghpvc/?username=kprdrop&style=for-the-badge&logoColor=23154D9C&labelColor=23154D9C&color=23FFF34A)
