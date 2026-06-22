@@ -35,3 +35,6 @@
 <a href="https://www.videolan.org/"><img src="https://img.shields.io/badge/-%20media%20player-FF8800?style=for-the-badge&logo=vlcmediaplayer&labelColor=%23154D9C&color=%23FFF34A" alt="VLC Media Player" /></a>
 &nbsp;
 <a href="https://www.mediafire.com/file/tzapdtl4b2k3vhl/wuffy-universal-release-358.apk/file"><img src="https://img.shields.io/badge/-Wuffy%20Player-FF0000?style=for-the-badge&logo=youtubemusic&labelColor=%23154D9C&color=%23FFF34A" alt="Wuffy Media Player" /></a>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=KPRDROPf&repo=KPRDROP&countColor=%237B1E7A)
+
