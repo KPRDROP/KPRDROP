@@ -39,5 +39,5 @@
 &nbsp;
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=kprdrop)
+![](https://komarev.com/ghpvc/?username=kprdrop&style=for-the-badge&logo=vlcmediaplayer&labelColor=%23154D9C&color=%23FFF34A)
 &nbsp;
